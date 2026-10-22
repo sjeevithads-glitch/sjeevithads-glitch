@@ -54,6 +54,7 @@
 ---
 
 ## GitHub Stats
+<p>
 
 https://github-readme-stats.vercel.app/api?username=sjeevithads-glitch
 &show_icons=true&theme=dark
