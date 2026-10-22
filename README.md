@@ -53,32 +53,19 @@
 
 ---
 
-## GitHub Stats
-<p>
+## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=sjeevithads-glitch
-&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api?username=sjeevithads-glitch&show_icons=true&theme=radical
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sjeevithads-glitch
-&layout=compact&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=sjeevithads-glitch&layout=compact&theme=radical
 
+## 🛠️ Technologies
 
+https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode
 
-
-## Technologies
-
-https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,git,github
-
-
-
-https://github-readme-stats.vercel.app/api?username=sjeevithads-glitch
-&show_icons=true&theme=radical
-
-
-
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=sjeevithads-glitch
-&layout=compact
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 
 <!--
 **sjeevithads-glitch/sjeevithads-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
